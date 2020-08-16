@@ -1,0 +1,14 @@
+{
+    "name": "Lhander",
+    "short_name": "Lhander",
+    "icons": [
+        {
+            "src": "img/favicons/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#820000",
+    "background_color": "#820000",
+    "display": "standalone"
+}
